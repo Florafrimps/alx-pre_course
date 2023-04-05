@@ -1,1 +1,1 @@
-This is my second readme for 0x01-git
+Mgscript to the world in software engineering
