@@ -6,4 +6,4 @@ root@fd2c35ce8084:/alx-pre_course/0x01-git/bash# cat > alx
 echo "ALX"
 VIM ALX
 #!/bin/bash
-echo "ALX"
+echo "ALX School"
